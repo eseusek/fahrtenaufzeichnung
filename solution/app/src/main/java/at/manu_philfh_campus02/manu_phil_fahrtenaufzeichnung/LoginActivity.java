@@ -1,5 +1,5 @@
 package at.manu_philfh_campus02.manu_phil_fahrtenaufzeichnung;
-//TestCommandForCommit
+
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
